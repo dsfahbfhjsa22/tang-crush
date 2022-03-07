@@ -15,5 +15,6 @@ const CONFIG = {
     mess: 'chúng tớ hiểu tấm lòng của các cậu mà <333',
     messDesc: 'chúc mùng 8/3 các cậu luôn vui vẻ',
     btnAccept: 'tớ sẽ tỏa sáng như bông hoa',
+    messLink: 'http://fb.com'
 
 }
