@@ -15,6 +15,6 @@ const CONFIG = {
     mess: 'chúng tớ hiểu tấm lòng của các cậu mà <333',
     messDesc: 'chúc mùng 8/3 các cậu luôn vui vẻ',
     btnAccept: 'tớ sẽ tỏa sáng như bông hoa',
-    messLink: 'https://padlet.com/nguyentlovie126/55l5ehha2qbqq860'
+    messLink: 'https://www.facebook.com/messages/t/100032534621013'
 
 }
